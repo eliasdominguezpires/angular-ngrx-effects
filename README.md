@@ -40,4 +40,4 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
   [MergeMap](https://rxjs.dev/api/operators/mergeMap)
 
 ## DEMO
-  [published at]`https://eliasdominguezpires.github.io/angular-ngrx-effects/`
+  [published at](https://eliasdominguezpires.github.io/angular-ngrx-effects/)
